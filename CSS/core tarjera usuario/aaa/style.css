@@ -1,0 +1,46 @@
+nav{
+    height: 75px;
+    background-color: rgb(63, 146, 146);
+}
+main{
+    border: 2px solid green;
+    display: flex;
+    gap: 50px;
+    padding: 30px;
+    
+}
+section{
+    border: 2px solid magenta;
+    height: 600px;
+    
+}
+.izquierda{
+    flex:2;
+    display: flex ;
+    flex-direction: column;
+    gap: 30px;
+}
+.derecha{
+    flex: 1;
+    display: flex ;
+    flex-direction: column;
+    gap: 30px;
+}
+.tarusuario, .educacion{
+    border: 2px solid orange; 
+}
+.tarusuario{
+    flex: 2;
+}
+.educacion{
+    flex: 1;
+}
+.solicitudes, .contactos{
+    border: 2px solid orange; 
+}
+.solicitudes{
+    flex: 2;
+}
+.contactos{
+    flex: 4;
+}

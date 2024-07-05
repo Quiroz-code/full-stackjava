@@ -1,0 +1,21 @@
+        <tr>
+            
+            <td>
+                <li>pyton</li>
+                <li>JavaScript</li>
+                <li>HTML5</li>
+                <li>CSS3</li>
+                <li>Bootstrap</li>
+                <li>React</li>
+            </td>
+        </tr>
+        <tr>
+            
+            <td>
+                <li>Django</li>
+                <li>Express</li>
+                <li>MySQL</li>
+                <li>Flask</li>
+                <li>MongoDB</li>
+            </td>
+        </tr>

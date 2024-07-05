@@ -1,0 +1,42 @@
+|CTAG_1720045570_8055328_5232_0
+|wd
+|s
+tree
+tree.C:\Users\matik\Desktop\cmender
+pwd
+tree C:\Users\matik\Desktop\cmender
+cd ..
+cd.java_fullstack
+ls
+cd. 'java fullstack'/
+cd. java fullstack
+cd. /java fullstack
+cd ./java fullstack
+|d ./java fullstack/css
+cd ./java fullstack /css
+cd ./java fullstack/css
+cd ./java full stack/CSS
+cd ./java fullstack/CSS
+cd ./CSS
+cd ./aaa
+cd ./core-targetausuario
+|s -1
+cd ./core-imagen
+|d..
+|d..
+mkdir prueba
+|d prueba
+touch prueba.txt
+nano pruba2.txt
+ls -1
+cp prueba2.txt ./desktop
+|p pruba2.txt ./desktop
+cp pruba2.txt ./java fullstack
+cp pruba2.txt ./desktop
+cd..
+mkdir carnueva
+|p pruba2.txt ./carnueva
+cd prueba
+cp pruba2.txt ./carnueva
+cp pruba2.txt ../carnueva
+git --version

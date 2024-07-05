@@ -1,0 +1,45 @@
+*{
+margin: 0px;
+}
+.container{
+
+    height: 820px ; 
+}
+
+.Azul{
+    height:31%;
+    background-color: #00b7ff;
+    flex: 0 0 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1%;
+
+}
+.Verde{
+    height: 31%;
+    background-color: #51ff00;
+    flex: 0 0 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 1%;
+}
+.Rojo{
+    height: 31%;
+    background-color: #ff0055;
+    flex: 0 0 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 1%;
+}
+.fondo{
+    height: 3%;
+    background-color: #fbff00;
+
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+}
+
+
+
+

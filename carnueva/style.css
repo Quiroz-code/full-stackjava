@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    height: 150px;
+    background-color: rgb(216, 109, 109);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px;
+}
+.menu{
+    display: flex;
+    gap: 30px;
+    font-size: larger;
+
+    margin-right: 2%;
+}
+li, a{
+    list-style: none;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: aqua;
+}
+
+#cerrar{
+
+    padding-inline: 5px 10px;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+    cursor: pointer;
+}
+#cerrar:hover{
+    color: aqua;
+    background-color: rgb(216, 109, 109);
+}

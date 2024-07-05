@@ -1,0 +1,26 @@
+.container {
+margin: 30px;
+border: 2px solid gray;
+border-radius: 4%;
+}
+
+.arriba {
+        height: 100px;
+        background-color: #0077ff;
+        margin-bottom: 10px;
+        border-radius: 20px 20px 0px 0px;
+        border: 2px solid #0077ff;
+}
+.foto{
+    height: 145px;
+    width: 145px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 50px;
+    margin-left: 40px;
+    border: 3px solid white;
+}
+
+.relleno{
+    margin: 100px;
+}
